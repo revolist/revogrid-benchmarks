@@ -1,6 +1,6 @@
-# vue-project
+# Revogrid benchmarks
 
-This template should help get you started developing with Vue 3 in Vite.
+This repo is supporting code example for the [article](https://dev.to/revolist/battle-of-the-rows-the-limits-of-data-performance-48l3-temp-slug-5753371?preview=0ea0f4684a7ac168bc31d56bcc84540305dee229c7b0580645d89aad91bad7ca8b0e87410800cbf88858b3d6a66699a50da02d57e9a3b11c0a766639)
 
 ## Recommended IDE Setup
 
