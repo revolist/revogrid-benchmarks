@@ -36,7 +36,7 @@ const renderTime = ref<number | null>(null);
 const scrollFPS = ref<number | null>(null);
 const memoryUsage = ref<{ usedJSHeapSize: number } | null>(null);
 const colsNumber = window.colsNumber || 100;
-const rowsNumber = window.rowsNumber || 400000;
+const rowsNumber = window.rowsNumber || 1000;
 
 // Scroll FPS measurement
 let lastTimestamp = 0;
